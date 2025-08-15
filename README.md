@@ -1,15 +1,14 @@
 # Production Line Power Distribution Mapping
 
-## Overview
-
 This project was completed as part of my internship at Cable Solutions (Pvt) Ltd. in 2019.  
+
 It documents the **Power Distribution Hierarchy** of the company production line and provides the final **AutoCAD Power Distribution Drawing** integrating both production-level and company-level power systems.
 
 The work involved inspecting distribution panels, mapping connections, and creating a unified technical drawing for maintenance and future expansion.
 
 ---
 
-## Project Tasks
+## 📌 Project Tasks
 - **Inspection & Data Collection**  
   - Checked two main distribution panels in the production line.  
   - Documented connected machinery, sub-power panels, and lighting panels using tree diagrams.  
@@ -29,15 +28,15 @@ The work involved inspecting distribution panels, mapping connections, and creat
   - Incorporated newly added power panels into the drawing.  
   - Delivered the final **Power Distribution Diagram**.
 
-## Power Distribution Block Diagram
+## 🔎 Power Distribution Block Diagram
 
-![power-distribution](s3.png)
+![power-distribution](power-distribution.png)
 
 > **Note:** The complete block diagram is intentionally zoomed out to avoid revealing any sensitive or proprietary details.
 
 ---
 
-## Tools & Skills Used
+## 🛠 Tools & Skills Used
 - **AutoCAD** – For technical diagram creation
 - **Electrical Systems Knowledge** – Understanding panel boards, breakers, and distribution hierarchy
 
