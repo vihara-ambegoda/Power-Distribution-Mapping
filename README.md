@@ -11,11 +11,9 @@ The work involved inspecting distribution panels, mapping connections, and creat
 ## 📌 Project Tasks
 - **Inspection & Data Collection**  
   - Checked two main distribution panels in the production line.  
-  - Documented connected machinery, sub-power panels, and lighting panels using tree diagrams.  
-  - Verified panel-to-machine connections with assistance from machine operators.
-
-- **Hierarchy Creation**  
+  - Documented connected machinery, sub-power panels, and lighting panels using tree diagrams.
   - Compiled findings into a detailed **Power Distribution Hierarchy**.  
+  - Verified panel-to-machine connections with assistance from machine operators.
 
 - **CAD Drawing Development**  
   - Converted the hierarchy into an **AutoCAD drawing**.  
@@ -28,6 +26,8 @@ The work involved inspecting distribution panels, mapping connections, and creat
   - Incorporated newly added power panels into the drawing.  
   - Delivered the final **Power Distribution Diagram**.
 
+---
+
 ## 🔎 Power Distribution Block Diagram
 
 ![power-distribution](power-distribution.png)
@@ -37,8 +37,8 @@ The work involved inspecting distribution panels, mapping connections, and creat
 ---
 
 ## 🛠 Tools & Skills Used
-- **AutoCAD** – For technical diagram creation
-- **Electrical Systems Knowledge** – Understanding panel boards, breakers, and distribution hierarchy
+- **AutoCAD** - For technical diagram creation
+- **Electrical Systems Knowledge** - Understanding panel boards, breakers, and distribution hierarchy
 
 ---
 
